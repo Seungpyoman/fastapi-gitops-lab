@@ -3,5 +3,5 @@ kind: ConfigMap
 metadata:
   name: inference-api-config
 data:
-  APP_VERSION: "1.1.0"
-  MODEL_NAME: "rule-based-demo-v2"
+  APP_VERSION: "1.2.0"
+  MODEL_NAME: "gitops-demo"
